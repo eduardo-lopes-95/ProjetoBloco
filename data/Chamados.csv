@@ -1,0 +1,11 @@
+id,titulo,descricao,prioridade,departamento_id,usuario_id
+1,Problema com impressora,"A impressora do terceiro andar está com papel preso.",alta,1,1
+2,Erro de login,"Não consigo acessar o sistema com minhas credenciais.",normal,2,2
+3,Reembolso de despesas,"Preciso de reembolso para uma viagem a trabalho.",normal,3,3
+4,Atualização de software,"O software de contabilidade precisa ser atualizado.",baixa,1,4
+5,Problema no servidor,"O servidor está fora do ar, afetando nossas operações.",alta,2,5
+6,Dúvida sobre benefícios,"Gostaria de esclarecimentos sobre os benefícios oferecidos.",baixa,3,6
+7,Novo pedido de suprimentos,"Precisamos de novos materiais de escritório.",normal,1,7
+8,Problema com pagamento,"Meu salário deste mês ainda não foi depositado.",alta,3,8
+9,Atualização de campanha,"Nossa  campanha publicitária precisa ser atualizada.",normal,4,9
+10,Consulta de estoque,"Quero saber a quantidade disponível de um produto no estoque.",baixa,5,10
