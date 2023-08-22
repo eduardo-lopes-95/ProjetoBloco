@@ -1,11 +1,11 @@
 id,nome,email,departamento_id
-1,João Silva,joao@example.com,2
+1,João Silva,joao@example.com,5
 2,Maria Santos,maria@example.com,1
 3,Pedro Oliveira,pedro@example.com,3
-4,Ana Souza,ana@example.com,2
-5,Lucas Pereira,lucas@example.com,1
+4,Ana Souza,ana@example.com,4
+5,Lucas Pereira,lucas@example.com,5
 6,Isabela Costa,isabela@example.com,3
 7,Rafael Oliveira,rafael@example.com,2
 8,Larissa Fernandes,larissa@example.com,1
-9,Gustavo Alves,gustavo@example.com,3
+9,Gustavo Alves,gustavo@example.com,4
 10,Sofia Martins,sofia@example.com,2
